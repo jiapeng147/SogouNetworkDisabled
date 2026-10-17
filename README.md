@@ -49,4 +49,3 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Install-SogouNetworkBl
 - 管理员权限
 - Windows Defender Firewall 服务和 NetSecurity PowerShell 模块可用
 
-本项目不包含任何 GitHub Token、代理配置或用户隐私信息。
